@@ -11,11 +11,13 @@ data related to draws of the OPAP JOKER game.
 In addition, it should have the possibility to be extended to the other OPAP games.
 
 ## Application Screenshots
+![Screenshot_4](https://user-images.githubusercontent.com/93736094/171050199-64b17dbc-411f-4904-b037-7aae289d1be2.png)
+
 ![GetDataRange](https://user-images.githubusercontent.com/93736094/171047611-d5594c73-a14e-435d-ad45-b32237817af1.png)
 
-![MonthlySelect1](https://user-images.githubusercontent.com/93736094/171047647-c481083b-5816-46f2-b7ad-e6bbee8bef46.png)
-
 ![Screenshot_9](https://user-images.githubusercontent.com/93736094/171047687-04bfc98e-60fa-48fa-8b5b-0caa047ac65d.png)
+
+![MonthlySelect1](https://user-images.githubusercontent.com/93736094/171047647-c481083b-5816-46f2-b7ad-e6bbee8bef46.png)
 
 ![SelecxtPdfDi2r](https://user-images.githubusercontent.com/93736094/171047749-a9773748-d6cf-4bd1-bba3-a29758a5bccc.png)
 
@@ -23,11 +25,8 @@ In addition, it should have the possibility to be extended to the other OPAP gam
 
 ![Stats3](https://user-images.githubusercontent.com/93736094/171047802-d00e279f-e2fe-4f8a-b6d9-b4ed861bb5ec.png)
 
+![Stats5](https://user-images.githubusercontent.com/93736094/171050294-68394f6c-6a5d-4653-8cd8-1f8a8c6448a3.png)
 
 
 ## Class diagram
 ![TzokerStats Class Diagram](https://user-images.githubusercontent.com/93736094/171047432-141da46f-e0c9-4acd-a18a-7491fdfa97f6.png)
-
-
-
-

@@ -10,7 +10,7 @@ In conclusion, the provided system should solve the problem of obtaining and pre
 data related to draws of the OPAP JOKER game. 
 In addition, it should have the possibility to be extended to the other OPAP games.
 
-##Application Screenshots
+## Application Screenshots
 ![GetDataRange](https://user-images.githubusercontent.com/93736094/171047611-d5594c73-a14e-435d-ad45-b32237817af1.png)
 
 ![MonthlySelect1](https://user-images.githubusercontent.com/93736094/171047647-c481083b-5816-46f2-b7ad-e6bbee8bef46.png)
@@ -25,7 +25,7 @@ In addition, it should have the possibility to be extended to the other OPAP gam
 
 
 
-##Class diagram:
+## Class diagram
 ![TzokerStats Class Diagram](https://user-images.githubusercontent.com/93736094/171047432-141da46f-e0c9-4acd-a18a-7491fdfa97f6.png)
 
 

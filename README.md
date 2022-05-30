@@ -1,4 +1,4 @@
-The present work concerns the analysis, design and implementation of an application that 
+The present work concerns the analysis, design and implementation of a desktop application that 
 draws data from a web service, stores it in a local database, and processes it in order 
 to present it in an intelligible way to the end user of the system. The data managed by 
 the JokerStats application correspond to the well-known JOKER lotery game of OPAP and more 

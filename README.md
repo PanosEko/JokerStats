@@ -1,6 +1,6 @@
 # JokerStats
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
 The present work concerns the analysis, design and implementation of a desktop application that 
 draws data from a web service, stores it in a local database, and processes it in order 
@@ -13,7 +13,7 @@ In conclusion, the provided system should solve the problem of obtaining and pre
 data related to draws of the OPAP JOKER game. 
 In addition, it should have the possibility to be extended to the other OPAP games.
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)
 
 
 ## UML Class diagram

@@ -13,7 +13,7 @@ In conclusion, the provided system should solve the problem of obtaining and pre
 data related to draws of the OPAP JOKER game. 
 In addition, it should have the possibility to be extended to the other OPAP games.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/93736094/171192998-21bae784-e212-4155-8e47-c69f3a8fe16b.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
 ## Application Screenshots
 

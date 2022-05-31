@@ -1,5 +1,6 @@
 # JokerStats
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93736094/171192998-21bae784-e212-4155-8e47-c69f3a8fe16b.gif)
+
 The present work concerns the analysis, design and implementation of a desktop application that 
 draws data from a web service, stores it in a local database, and processes it in order 
 to present it in an intelligible way to the end user of the system. The data managed by 

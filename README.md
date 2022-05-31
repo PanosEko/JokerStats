@@ -15,10 +15,25 @@ In addition, it should have the possibility to be extended to the other OPAP gam
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
+
+## UML Class diagram
+![TzokerStats Class Diagram](https://user-images.githubusercontent.com/93736094/171047432-141da46f-e0c9-4acd-a18a-7491fdfa97f6.png)
+
 ## Application Screenshots
 
+![image](https://user-images.githubusercontent.com/93736094/171200060-e0651401-6d0e-4c40-b5d7-efc2341fc5da.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171200314-c6667810-32e5-4646-818c-d53a51805362.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171200572-06c0d8fd-028b-4521-a69d-e538320a0022.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171200741-cd24578b-8046-4ba3-914f-607638991979.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171200836-7cf8a958-02fd-4c8a-9c58-563bbc48162a.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171200970-6cbffdbb-9c00-41e3-9b26-23e644035086.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171201105-362c3dd8-188d-43b2-b17f-8279b97572a6.png)
 
 
 
-## Class diagram
-![TzokerStats Class Diagram](https://user-images.githubusercontent.com/93736094/171047432-141da46f-e0c9-4acd-a18a-7491fdfa97f6.png)

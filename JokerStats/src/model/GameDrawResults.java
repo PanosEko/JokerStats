@@ -14,10 +14,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- *
- * @author jkanaks
- */
+
 @Entity
 @Table(name = "GAME_DRAW_RESULTS")
 @XmlRootElement

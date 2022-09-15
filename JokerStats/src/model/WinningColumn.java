@@ -18,10 +18,7 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- *
- * @author jkanaks
- */
+
 @Entity
 @Table(name = "WINNING_COLUMN")
 @XmlRootElement

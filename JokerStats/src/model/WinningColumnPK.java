@@ -10,10 +10,7 @@ import javax.persistence.Basic;
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
 
-/**
- *
- * @author jkanaks
- */
+
 @Embeddable
 public class WinningColumnPK implements Serializable {
 

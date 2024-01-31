@@ -27,13 +27,14 @@ In addition, it should have the possibility to be extended to the other OPAP gam
 
 ![image](https://user-images.githubusercontent.com/93736094/171200572-06c0d8fd-028b-4521-a69d-e538320a0022.png)
 
+![image](https://user-images.githubusercontent.com/93736094/171201105-362c3dd8-188d-43b2-b17f-8279b97572a6.png)
+
 ![image](https://user-images.githubusercontent.com/93736094/171200741-cd24578b-8046-4ba3-914f-607638991979.png)
 
 ![image](https://user-images.githubusercontent.com/93736094/171200836-7cf8a958-02fd-4c8a-9c58-563bbc48162a.png)
 
 ![image](https://user-images.githubusercontent.com/93736094/171200970-6cbffdbb-9c00-41e3-9b26-23e644035086.png)
 
-![image](https://user-images.githubusercontent.com/93736094/171201105-362c3dd8-188d-43b2-b17f-8279b97572a6.png)
 
 
 

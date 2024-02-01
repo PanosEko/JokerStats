@@ -13,7 +13,7 @@ The provided system should solve the problem of obtaining and presenting
 data related to draws of the OPAP JOKER game. 
 In addition, it should have the possibility to be extended to the other OPAP games.
 
-Packages: 
+### Packages: 
 - tzokerstat: It is the entry point of the application. It is that part of the application that prepares the execution environment for the code to follow. It also contains the new exceptions that were considered necessary during the development of the application (custom exceptions).
 - model: Groups the POJO classes that were created using the Java Persistence API (JPA). JPA is a programming library used to manage a database easily and efficiently through Java code. 
 - gui: contains the application graphical interface. It also contains helper classes (MenuOverlay) that have to do with the look and feel of the latter. The classes of this package make use of the helper classes of the other packages to satisfy the requirements of the application.

@@ -9,9 +9,15 @@ the JokerStats application correspond to the well-known JOKER lotery game of OPA
 specifically relate to the results of the draws and the statistics of the game from its
 launch (2000) until today.
 
-In conclusion, the provided system should solve the problem of obtaining and presenting 
+The provided system should solve the problem of obtaining and presenting 
 data related to draws of the OPAP JOKER game. 
 In addition, it should have the possibility to be extended to the other OPAP games.
+
+Packages: 
+- tzokerstat: It is the entry point of the application. It is that part of the application that prepares the execution environment for the code to follow. It also contains the new exceptions that were considered necessary during the development of the application (custom exceptions).
+- model: Groups the POJO classes that were created using the Java Persistence API (JPA). JPA is a programming library used to manage a database easily and efficiently through Java code. 
+- gui: contains the application graphical interface. It also contains helper classes (MenuOverlay) that have to do with the look and feel of the latter. The classes of this package make use of the helper classes of the other packages to satisfy the requirements of the application.
+- dataIngestion: Contains all those helper classes that take on the task of hiding the complexity of communication with external systems (OPAP API, Derby Database). Thus, these classes process and return objects that can be consumed by the classes belonging to the gui package. In addition, it contains the POJO classes created to receive the responses of API Calls.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)
 

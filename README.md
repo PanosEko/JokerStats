@@ -13,7 +13,7 @@ JokerStats is a desktop application that can be used as a data analysis tool for
 
 ## Technologies Used:
 - Java: Main programming language for application development.
-- Swing: User interface framework for desktop application.
+- Swing: User interface framework for desktop applications.
 - Apache Derby: Embedded database for data storage.
 - JPA: Object-relational mapping for database interactions.
 - OkHttp: HTTP & HTTP/2 client for Java applications.

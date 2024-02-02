@@ -21,8 +21,8 @@ The desktop application draws data from OPAP's web service (https://www.opap.gr/
 - JFreeChart: Charting library used to generate informative and visually appealing charts for data visualization.
 - iTextPDF: Open-source library for creating and manipulating PDFs.
 
-##  Installer
-Download the installer for [JokerStats] from the releases section: [Releases](https://github.com/PanosEko/JokerStats/releases).
+##  Installation
+Download the installer and user manual from the releases section: [Releases](https://github.com/PanosEko/JokerStats/releases).
 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)

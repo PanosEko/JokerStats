@@ -2,7 +2,7 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
-This application was made by me and [Ioannis Kannakis]: https://github.com/IoannisKanakis for the purposes of completing the team project 
+This application was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis) for the purposes of completing the team project 
 The present work concerns the analysis, design and implementation of a desktop application that 
 draws data from a web service, stores it in a local database, and processes it in order 
 to present it in an intelligible way to the end user of the system. The data managed by 

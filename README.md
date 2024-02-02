@@ -18,8 +18,8 @@ The desktop application draws data from OPAP's web service (https://www.opap.gr/
 - Apache Derby: Embedded database for data storage.
 - JPA: Object-relational mapping for database interactions.
 - OkHttp: HTTP client for fetching data from OPAP's web service.
-
-
+- JFreeChart: Charting library used to generate informative and visually appealing charts for data visualization.
+- iTextPDF: Open-source library for creating and manipulating PDFs.
 
 
 

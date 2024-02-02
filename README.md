@@ -16,7 +16,7 @@ The desktop application draws data from OPAP's web service (https://www.opap.gr/
 - Swing: User interface framework for desktop application.
 - Apache Derby: Embedded database for data storage.
 - JPA: Object-relational mapping for database interactions.
-- OkHttp: HTTP client for fetching data from OPAP's web service.
+- OkHttp: HTTP & HTTP/2 client for Java applications.
 - JFreeChart: Charting library used to generate informative and visually appealing charts for data visualization.
 - iTextPDF: Open-source library for creating and manipulating PDFs.
 
@@ -27,11 +27,10 @@ Download the installer and user manual from the releases section: [Releases](htt
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)
 
 ## Packages: 
-- tzokerstat: It is the entry point of the application. It is that part of the application that prepares the execution environment for the code to follow. It also contains the new exceptions that were considered necessary during the development of the application (custom exceptions).
-- model: Groups the POJO classes that were created using the Java Persistence API (JPA). JPA is a programming library used to manage a database easily and efficiently through Java code. 
-- gui: contains the application graphical interface. It also contains helper classes (MenuOverlay) that have to do with the look and feel of the latter. The classes of this package make use of the helper classes of the other packages to satisfy the requirements of the application.
-- dataIngestion: Contains all those helper classes that take on the task of hiding the complexity of communication with external systems (OPAP API, Derby Database). Thus, these classes process and return objects that can be consumed by the classes belonging to the gui package. In addition, it contains the POJO classes created to receive the responses of API Calls.
-
+- model: Groups the POJO classes that were created using the Java Persistence API (JPA). 
+- gui: contains the application graphical interface. It also contains helper classes (MenuOverlay) that have to do with the look and feel of the latter.
+- dataIngestion: Contains all those classes that take on the task of hiding the complexity of communication with external systems (OPAP API, Derby Database). Thus, these classes process and return objects that can be consumed by the classes belonging to the gui package. In addition, it contains the POJO classes created to receive the responses of API Calls.
+- tzokerstat: The entry point of the application. It is that part of the application that prepares the execution environment. It also contains the new exceptions that were considered necessary during the development of the application (custom exceptions).
 
 ## UML Class diagram
 ![TzokerStats Class Diagram](https://user-images.githubusercontent.com/93736094/171047432-141da46f-e0c9-4acd-a18a-7491fdfa97f6.png)

@@ -3,7 +3,7 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
 JokerStats is a desktop application that was developed as part of a software development team project at Hellenic Open University and was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis).
-The desktop application draws data from OPAP's web service (https://www.opap.gr/web-services) and processes it in order to present it in an intelligible way.
+The desktop application draws data from OPAP's web service (https://www.opap.gr/web-services) and processes it in order to present it in an intelligible way. An installer is available in the "Releases" 
 
 ## Features
 - Data Fetching: Retrieves data from OPAP's web service using OkHttp.
@@ -21,7 +21,8 @@ The desktop application draws data from OPAP's web service (https://www.opap.gr/
 - JFreeChart: Charting library used to generate informative and visually appealing charts for data visualization.
 - iTextPDF: Open-source library for creating and manipulating PDFs.
 
-
+##  Installer
+Download the installer for [JokerStats] from the releases section: [Releases](https://github.com/PanosEko/JokerStats/releases).
 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)

@@ -6,11 +6,10 @@ JokerStats is a desktop application that was developed as part of a software dev
 The desktop application draws data from OPAP's web service (https://www.opap.gr/web-services) and processes it in order to present it in an intelligible way. An installer is available in the "Releases" 
 
 ## Features
-- Data Fetching: Retrieves data from OPAP's web service using OkHttp.
-- Data Processing: Processes and organizes fetched data efficiently.
+- Fetching: Retrieves data from OPAP's web service using OkHttp.
 - Data Visualization: Presents wichever data are selected in clear and informative charts (pie, bar, etc.) and tables.
 - Data Persistence: Saves processed data to an Apache Derby database for future access.
-- Data Export: Exports data in PDF format for convenient sharing.
+- PDF Export: Exports data in PDF format for convenient sharing.
 
 ## Technologies Used:
 - Java: Main programming language for application development.

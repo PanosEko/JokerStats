@@ -4,13 +4,8 @@
 
 This application was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis) for the purposes of completing a software development team project assigned to us in Hellenic Open University. 
 The desktop application draws data from a web service, stores it in an embedded database, and processes it in order 
-to present it in an intelligible way. The data managed by the JokerStats application are drawn from OPAP's web services found at [https://www.opap.gr/web-services]
-correspond to the well-known JOKER lotery game of OPAP and more 
-specifically relate to the results of the draws and the statistics of the game from its launch (2000) until today.
+to present it in an intelligible way. The data managed by the JokerStats application are drawn from OPAP's web services (https://www.opap.gr/web-services).
 
-The provided system should solve the problem of obtaining and presenting 
-data related to draws of the OPAP JOKER game. 
-In addition, it should have the possibility to be extended to the other OPAP games.
 
 ### Packages: 
 - tzokerstat: It is the entry point of the application. It is that part of the application that prepares the execution environment for the code to follow. It also contains the new exceptions that were considered necessary during the development of the application (custom exceptions).

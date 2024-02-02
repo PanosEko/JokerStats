@@ -2,7 +2,7 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
-JokerStats is a desktop application that was developed as part of a software development team project at Hellenic Open University and was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis).
+JokerStats is a desktop application that can be used as a data analysis tool for OPAP's Joker lotery game. It was developed as part of a software development team project at Hellenic Open University and was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis).
 The desktop application draws data from OPAP's web service (https://www.opap.gr/web-services) and processes it in order to present it in an intelligible way.
 
 ## Features

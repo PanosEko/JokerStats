@@ -51,6 +51,11 @@ Download the installer and user manual from the releases section: [Releases](htt
 
 ![image](https://user-images.githubusercontent.com/93736094/171200970-6cbffdbb-9c00-41e3-9b26-23e644035086.png)
 
+### Exported PDF example
+
+![image](https://github.com/PanosEko/JokerStats/assets/93736094/b6271a5c-12ec-49d5-8d99-a4d13a5ece31)
+
+
 
 
 

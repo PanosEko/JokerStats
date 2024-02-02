@@ -5,9 +5,10 @@ JokerStats is a desktop application that can be used as a data analysis tool for
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
 ## Features
-- Fetching: Retrieves data from OPAP's web service using OkHttp.
+- Data Fetching: Retrieves data from OPAP's web service using OkHttp.
 - Data Visualization: Presents whichever data are selected in clear and informative charts (pie, bar, etc.) and tables.
-- Concurrency: Used Java threads to achieve asynchronous data retrieval or database operations and UI updates, significantly improving application responsiveness.
+- Concurrency: Java threads where used to achieve asynchronous data retrieval or database operations and UI updates, significantly improving application responsiveness.
+- Concurrent Operations: Implemented asynchronous data retrieval, database operations, and UI updates using Java threads with the SwingWorker component, effectively improving responsiveness and efficiency while data processing occurred in the background
 - Data Persistence: Saves processed data to an Apache Derby database for future access.
 - PDF Export: Exports data in PDF format for convenient sharing.
 

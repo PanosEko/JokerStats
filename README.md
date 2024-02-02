@@ -2,11 +2,27 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93736094/171199419-ea28fd8f-dc28-489a-90ec-84c38ba39800.gif)
 
-This application was made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis) for the purposes of completing a software development team project assigned to us in Hellenic Open University. 
-The desktop application draws data from a web service, stores it in an embedded database, and processes it in order 
-to present it in an intelligible way. The data managed by the JokerStats application are drawn from OPAP's web services (https://www.opap.gr/web-services).
+JokerStats is a desktop application that was developed as part of a software development team project at Hellenic Open Universitywas made by me and [Ioannis Kannakis](https://github.com/IoannisKanakis).
+The desktop application draws data from OPAP's web service (https://www.opap.gr/web-services) and processes it in order to present it in an intelligible way.
 
 ## Features
+- Data Fetching: Retrieves data from OPAP's web service using OkHttp.
+- Data Processing: Processes and organizes fetched data efficiently.
+- Data Visualization: Presents wichever data are selected in clear and informative charts (pie, bar, etc.) and tables.
+- Data Persistence: Saves processed data to an Apache Derby database for future access.
+- Data Export: Exports data in PDF format for convenient sharing.
+
+## Technologies Used:
+- Java: Main programming language for application development.
+- Swing: User interface framework for desktop application.
+- Apache Derby: Embedded database for data storage.
+- JPA: Object-relational mapping for database interactions.
+- OkHttp: HTTP client for fetching data from OPAP's web service.
+
+
+
+
+
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93736094/171197750-99a50d7b-1d72-4c10-b21f-7e53fb60cc0e.gif)
 
